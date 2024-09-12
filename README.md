@@ -4,6 +4,10 @@
 
 Welcome to **Jake's Resume Template**, a free and simple resume template designed to help you create a professional CV quickly and easily. This template is perfect for job seekers looking to showcase their skills and experience in a clear and well-organized format.
 
+## Official Site
+
+For more information and additional resources, visit the official site: [jakesresume.com](https://jakesresume.com/).
+
 ![Jake's Resume Example](https://raw.githubusercontent.com/jakesresume/jakesresume.github.io/main/jakes-resume-example.webp)
 
 ## Features
@@ -35,10 +39,6 @@ This template includes the following sections:
 - Skills
 - Certifications
 - References (optional)
-
-## Official Site
-
-For more information and additional resources, visit the official site: [jakesresume.com](https://jakesresume.com/).
 
 ## License
 
