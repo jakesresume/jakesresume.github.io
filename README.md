@@ -1,35 +1,33 @@
-<link rel="icon" type="image/x-icon" href="/favicon.png">
+Welcome to **Jake's Resume Template**! This is a user-friendly and straightforward resume template designed to help you craft a professional CV with ease. Ideal for job seekers who want to highlight their skills and experiences in an organized and visually appealing manner.
 
-Welcome to **Jake's Resume Template**, a free and simple resume template designed to help you create a professional CV quickly and easily. This template is perfect for job seekers looking to showcase their skills and experience in a clear and well-organized format.
+## Official Website
 
-## Official Site
+For further details and additional resources, please visit the official site: [jakesresume.com](https://jakesresume.com/).
 
-For more information and additional resources, visit the official site: [jakesresume.com](https://jakesresume.com/).
+![Sample Resume Layout](https://raw.githubusercontent.com/jakesresume/jakesresume.github.io/main/jakes-resume-example.webp)
 
-![Jake's Resume Example](https://raw.githubusercontent.com/jakesresume/jakesresume.github.io/main/jakes-resume-example.webp)
+## Key Features
 
-## Features
+- Sleek and minimalist design
+- Easily customizable with your personal details
+- Available in both Word and LaTeX formats
+- Can be exported to PDF for easy distribution
 
-- Clean and minimalist design
-- Easy to customize with your own information
-- Available in Word and LaTeX formats
-- Exportable to PDF for easy sharing
+## How to Access/Download
 
-## How to Use/Download
-
-1. **Download the template** in your preferred format:
+1. **Obtain the template** in your preferred format:
    - [Word Format](https://github.com/jakesresume/jakesresume.github.io/releases/download/template/Jakes-Resume-Word-Files.zip)
    - [LaTeX Format](https://github.com/jakesresume/jakesresume.github.io/releases/download/latex/Jakes-Resume-LaTeX.zip)
 
-2. **Open the file** in your preferred editor (Microsoft Word, Google Docs, or any LaTeX editor).
+2. **Open the file** using your choice of editor (Microsoft Word, Google Docs, or any LaTeX editor).
 
-3. **Customize the sections** by filling in your personal information, work experience, education, and skills.
+3. **Modify the sections** by entering your personal details, work history, education, and skills.
 
-4. **Export as PDF** when you're ready to submit your resume.
+4. **Export as PDF** once you have finalized your resume.
 
-## Sections
+## Included Sections
 
-This template includes the following sections:
+This template features the following sections:
 - Contact Information
 - Professional Summary
 - Work Experience
@@ -38,6 +36,6 @@ This template includes the following sections:
 - Certifications
 - References (optional)
 
-## License
+## License Information
 
-This project is licensed under the MIT License. Feel free to use and modify the template as needed for your personal or professional use.
+This template is distributed under the MIT License. You are free to use and adapt it as needed for personal or professional purposes.
