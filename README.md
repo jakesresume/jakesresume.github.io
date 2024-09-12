@@ -1,3 +1,5 @@
+# Jake's Free Resume Templates
+
 Welcome to **Jake's Resume Template**! This is a user-friendly and straightforward resume template designed to help you craft a professional CV with ease. Ideal for job seekers who want to highlight their skills and experiences in an organized and visually appealing manner.
 
 ## Official Website
