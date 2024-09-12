@@ -1,7 +1,5 @@
 <link rel="icon" type="image/x-icon" href="/favicon.png">
 
-# Jake's Resume Template
-
 Welcome to **Jake's Resume Template**, a free and simple resume template designed to help you create a professional CV quickly and easily. This template is perfect for job seekers looking to showcase their skills and experience in a clear and well-organized format.
 
 ## Official Site
