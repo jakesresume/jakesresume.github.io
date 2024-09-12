@@ -38,4 +38,4 @@ This template features the following sections:
 
 ## License Information
 
-This template is distributed under the MIT License. You are free to use and adapt it as needed for personal or professional purposes.
+This template is distributed under the MIT License. You are free to use and adapt it as needed for personal or professional purposes. More info here: [jakesresume.github.io](https://jakesresume.github.io/).
