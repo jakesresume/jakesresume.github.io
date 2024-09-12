@@ -2,6 +2,8 @@
 
 Welcome to **Jake's Resume Template**, a free and simple resume template designed to help you create a professional CV quickly and easily. This template is perfect for job seekers looking to showcase their skills and experience in a clear and well-organized format.
 
+![Jake's Resume Example](https://raw.githubusercontent.com/jakesresume/jakesresume.github.io/main/jakes-resume-example.webp)
+
 ## Features
 
 - Clean and minimalist design
@@ -9,7 +11,7 @@ Welcome to **Jake's Resume Template**, a free and simple resume template designe
 - Available in Word and LaTeX formats
 - Exportable to PDF for easy sharing
 
-## How to Use
+## How to Use/Download
 
 1. **Download the template** in your preferred format:
    - [Word Format](https://github.com/jakesresume/jakesresume.github.io/releases/download/template/Jakes-Resume-Word-Files.zip)
